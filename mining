@@ -1,0 +1,5 @@
+./xmrig --donate-level 15 -o xmr.2miners.com:3333 --rig-id Proxy --tls -o monerohash.com:9999 -u 43z48BunickBrdLjT9SVohUEyTUcD7vEtKtSgS7aAuqtNjvMduKVSZtEwgFCdrfA6h4oCLcy1a6ekW5ckojQkD8FRjwvdsQ -k --tls
+
+84WiXw7by3z5rEf1djFkGYdghBndDBLRvfEnDUJSmVFaNXwDmVn3AihUERApjuT2Fo2EynKsrqzhsTAzXCLfhXaxLK8SQz9 
+
+-k --tls
